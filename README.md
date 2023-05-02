@@ -7,7 +7,7 @@ Emma's Recipe Library
 
 
 #Project Functionality
-The project displays a list of recipes. There are five different countries to pick from. The user can pick from multiple meals from each country. There are breakfast and dinner options. A description is presented for each meal. There is also a quiz to help pick the best fit meals for the user. 
+The project displays a list of recipes. There are five different countries to pick from. The user can pick from multiple meals from each country. There are breakfast and dinner options. A description is presented for each meal. 
 
 #Project Reason
 Why its useful, fun, or just why did you pick this project to make?
